@@ -1,4 +1,4 @@
-## Su Hyung
+# Johnathan Choi
 
 Passionate researcher in Computer Vision, Deep Learning.
 
