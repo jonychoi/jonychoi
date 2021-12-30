@@ -1,4 +1,4 @@
-# Johnathan Choi
+# Jonathan Choi
 
 Passionate researcher in Computer Vision, Deep Learning.
 
