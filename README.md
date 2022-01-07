@@ -1,6 +1,7 @@
-# TO THE INFINITY, AND BEYOND
+# Jonathan Choi
 
-👋 Hi, I am @JonyChoi, Undergraduate student of Korea University. https://jonychoi.github.io
+👋 Hi, I am @JonyChoi, Undergraduate student of Korea University. https://jonychoi.github.io.
+
 My insight is taking a long term to take a glimpse of the Universal Law, the Truth, and I believe that will be realized by technology and literature. I hope to find that and tell to people someday, for the humanity.
 
 **I'm passionate at**
