@@ -26,4 +26,4 @@ Thank you for visiting. Hope you enjoy my contents and have a nice day.
 
 
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=jonychoi&show_icons=true&theme=algolia" height="150px" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonychoi&layout=compact&langs_count=8&theme=algolia" height="150px" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonychoi&layout=compact&langs_count=8&theme=algolia" height="150px" />
