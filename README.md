@@ -1,18 +1,16 @@
 # TO THE INFINITY, AND BEYOND
 
 👋 Hi, I am @JonyChoi, Undergraduate student of Korea University. https://jonychoi.github.io
+My insight is taking a long term to take a glimpse of the Universal Law, the Truth, and I believe that will be realized by technology and literature. I hope to find that and tell to people someday, for the humanity.
 
 **I'm passionate at**
 
 - Deep Learning, Computer Vision / Style Transfer with Implicit Neural Representation / Object Detection /Multi Modal, Mixed Reality, Human Computer Interface
 
-**My Goal is**
+**I'm Researching**
 
 - Develop the State of the Arts of Universal Deep Learning Task
 - Revolutionary Interface using Mixed Reality
-
-**My Final Goal is** 
-- **TAKE A GLIMPSE ON UNIVERSAL LAW AND TELL TO HUMANS.**
 
 **Currently I am**
 
