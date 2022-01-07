@@ -1,4 +1,4 @@
-# Jony Choi - TO THE INFINITY, AND BEYOND!
+# To the Infinity, And Beyond!
 
 
 👋 Hi, I am @JonyChoi, Undergraduate student of Korea University. https://jonychoi.github.io
