@@ -9,7 +9,7 @@ My insight is taking a long term to take a glimpse of the Universal Law, the Tru
 - Deep Learning, Computer Vision
 - Developing the State of the Arts of Universal Deep Learning Task
 - Style Transfer with Implicit Neural Representation
-- Developing and End to End DLOPS Architecture
+- Developing an End to End DLOPS Architecture
 - Revolutionary Interface of Human Computer Interface
 
 **Currently I am**
