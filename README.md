@@ -4,23 +4,21 @@
 
 👋 Hi, I am @JonyChoi, Undergraduate student of Korea University.
 
-I'm passionate at
+**I'm passionate at**
 
 - Deep Learning, Computer Vision
 - Style Transfer with Implicit Neural Representation
 - Object Detection
 - Multi Modal, Mixed Reality, Human Computer Interface
 
-My Goal is
+**My Goal is**
 
 - Develop the State of the Arts of Universal Deep Learning Task
 - Revolutionary Interface using Mixed Reality
 
-My Final Goal is
+**My Final Goal is TAKE A GLIMPSE ON UNIVERSAL LAW AND TELL TO HUMANS.**
 
-- TAKE A GLIMPSE ON UNIVERSAL LAW AND TELL TO HUMANS
-
-Currently I am
+**Currently I am**
 
 - Undergraduate researcher [Computer Vision Lab](https://cvlab.korea.ac.kr/) @ Dept. of Computer Science & Engineering, Korea University, Seoul.
 
