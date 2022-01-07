@@ -5,10 +5,7 @@
 
 **I'm passionate at ...**
 
-- Deep Learning, Computer Vision
-- Style Transfer with Implicit Neural Representation
-- Object Detection
-- Multi Modal, Mixed Reality, Human Computer Interface
+- Deep Learning, Computer Vision / Style Transfer with Implicit Neural Representation / Object Detection /Multi Modal, Mixed Reality, Human Computer Interface
 
 **My Goal is ...**
 
