@@ -7,10 +7,10 @@ My insight is taking a long term to take a glimpse of the Universal Law, the Tru
 **I'm Researching**
 
 - Deep Learning, Computer Vision
-- Object Detection
 - Developing the State of the Arts of Universal Deep Learning Task
 - Style Transfer with Implicit Neural Representation
-- Revolutionary Interface of HCI
+- Developing and End to End DLOPS Architecture
+- Revolutionary Interface of Human Computer Interface
 
 **Currently I am**
 
