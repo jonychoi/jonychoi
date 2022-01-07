@@ -1,7 +1,7 @@
 # Jony Choi - TO THE INFINITY, AND BEYOND!
 
 
-👋 Hi, I am @JonyChoi, Undergraduate student of Korea University.
+👋 Hi, I am @JonyChoi, Undergraduate student of Korea University. https://jonychoi.github.io
 
 **I'm passionate at ...**
 
@@ -22,6 +22,4 @@
 
 - Undergraduate researcher [Computer Vision Lab](https://cvlab.korea.ac.kr/) @ Dept. of Computer Science & Engineering, Korea University, Seoul.
 
-Have a nice day. Thank you for visiting. Hope you enjoy my contents.
-
-Introduction homepage: https://jonychoi.github.io
+Thank you for visiting. Hope you enjoy my contents and have a nice day. 
