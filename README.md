@@ -4,14 +4,13 @@
 
 My insight is taking a long term to take a glimpse of the Universal Law, the Truth, and I believe that will be realized by technology and literature. I hope to find that and tell to people someday, for the humanity.
 
-**I'm passionate at**
-
-- Deep Learning, Computer Vision / Style Transfer with Implicit Neural Representation / Object Detection /Multi Modal, Mixed Reality, Human Computer Interface
-
 **I'm Researching**
 
-- Develop the State of the Arts of Universal Deep Learning Task
-- Revolutionary Interface using Mixed Reality
+- Deep Learning, Computer Vision
+- Object Detection
+- Developing the State of the Arts of Universal Deep Learning Task
+- Style Transfer with Implicit Neural Representation
+- Revolutionary Interface of HCI
 
 **Currently I am**
 
