@@ -19,7 +19,7 @@
 **My Final Goal is ...** 
 - **TAKE A GLIMPSE ON UNIVERSAL LAW AND TELL TO HUMANS.**
 
-**Currently I am**
+**Currently I am ...**
 
 - Undergraduate researcher [Computer Vision Lab](https://cvlab.korea.ac.kr/) @ Dept. of Computer Science & Engineering, Korea University, Seoul.
 
