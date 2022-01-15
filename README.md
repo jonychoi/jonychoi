@@ -24,7 +24,7 @@ Thank you for visiting. Hope you enjoy my contents and have a nice day.
 
 <p align="center">
 <h3>Tech Stacks</h3>
-<h4>DL, ML, Computer Vision / Blockchain / FrontEnd / BackEnd, Server</h4>
+<h4>Deep Learning, Machine Learning, Computer Vision / Blockchain / FrontEnd / BackEnd, Server</h4>
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white"/>
