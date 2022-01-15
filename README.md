@@ -48,7 +48,7 @@ Thank you for visiting. Hope you enjoy my contents and have a nice day.
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=black"/>
 <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=Tailwind%20CSS&logoColor=black"/>
 <img src="https://img.shields.io/badge/Styled%20Components-DB7093?style=flat&logo=styled%20components&logoColor=black"/>
-<img src="https://img.shields.io/badge/Mapbox-000000?style=flat&logo=Mapbox&logoColor=black"/>
+<img src="https://img.shields.io/badge/Mapbox-000000?style=flat&logo=Mapbox&logoColor=white"/>
 <img src="https://img.shields.io/badge/Webgl-990000?style=flat&logo=Webgl&logoColor=black"/>
 </p>
 <p>
