@@ -35,7 +35,7 @@ Thank you for visiting. Hope you enjoy my contents and have a nice day.
 <img src="https://img.shields.io/badge/OpenAI%20Gym-0081A5?style=flat&logo=OpenAI%20Gym&logoColor=black"/>
 </p>
 
-<h4>Apps</h4>
+<p>Apps</p>
 <p>
 <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat&logo=React&logoColor=black"/>
 <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=typescript&logoColor=black"/>
