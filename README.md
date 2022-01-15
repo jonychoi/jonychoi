@@ -24,6 +24,7 @@ Thank you for visiting. Hope you enjoy my contents and have a nice day.
 
 
 <h4>DL / ML / Computer Vision</h4>
+<p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=black"/>
 <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat&logo=PyTorch&logoColor=black"/>
 <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=Numpy&logoColor=black"/>
@@ -32,16 +33,21 @@ Thank you for visiting. Hope you enjoy my contents and have a nice day.
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=black"/>
 <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=OpenAI&logoColor=black"/>
 <img src="https://img.shields.io/badge/OpenAI%20Gym-0081A5?style=flat&logo=OpenAI%20Gym&logoColor=black"/>
+</p>
 
 <h4>Apps</h4>
+<p>
 <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat&logo=React&logoColor=black"/>
 <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=typescript&logoColor=black"/>
+</p>
 
 <h4>Blockchain</h4>
+<p>
 <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=Ethereum&logoColor=black"/>
 <img src="https://img.shields.io/badge/Solidity-363636?style=flat&logo=Solidity&logoColor=black"/>
 <img src="https://img.shields.io/badge/Web3.js-F16822?style=flat&logo=Web3.js&logoColor=black"/>
 <img src="https://img.shields.io/badge/bitcoin-F7931A?style=flat&logo=bitcoin&logoColor=black"/>
+</p>
 
 <h4>FrontEnd</h4>
 <p>
