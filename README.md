@@ -24,7 +24,7 @@ Thank you for visiting. Hope you enjoy my contents and have a nice day.
 
 
 <p>
-<p>DL / ML / Computer Vision: </p>
+<p width="300">DL / ML / Computer Vision: </p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=black"/>
 <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat&logo=PyTorch&logoColor=black"/>
 <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=Numpy&logoColor=black"/>
