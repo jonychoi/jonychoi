@@ -24,10 +24,12 @@ Thank you for visiting. Hope you enjoy my contents and have a nice day.
 
 <p>
 <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Apollo%20GraphQL-311C87?style=flat&logo=apollo%20graphql&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon%20aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=Tailwind%Css&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=Tailwind%20CSS&logoColor=white"/>
 <img src="https://img.shields.io/badge/Styled%20Components-DB7093?style=flat&logo=styled%20components&logoColor=white"/>
+</p>
+<p>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon%20aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apollo%20GraphQL-311C87?style=flat&logo=apollo%20graphql&logoColor=white"/>
 </p>
