@@ -55,7 +55,7 @@ Thank you for visiting. Hope you enjoy my contents and have a nice day.
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=black"/>
 <img src="https://img.shields.io/badge/ts%20node-3178C6?style=flat&logo=ts-node&logoColor=black"/>
 <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat&logo=amazon%20aws&logoColor=black"/>
-<img src="https://img.shields.io/badge/Amazon%S3-569A31?style=flat&logo=amazon%S3&logoColor=black"/>
+<img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=flat&logo=Amazon%20S3&logoColor=black"/>
 <img src="https://img.shields.io/badge/React%20Router-CA4245?style=flat&logo=React%20Router&logoColor=black"/>
 <img src="https://img.shields.io/badge/Apollo%20GraphQL-311C87?style=flat&logo=apollo%20graphql&logoColor=black"/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgreSQL&logoColor=black"/>
