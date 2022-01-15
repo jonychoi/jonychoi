@@ -23,7 +23,7 @@ Thank you for visiting. Hope you enjoy my contents and have a nice day.
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonychoi&layout=compact&langs_count=8&theme=algolia" height="140px" />
 
 <p align="center">
-<h4>DL / ML / Computer Vision</h4>
+<h4>AI, DL, ML, Computer Vision / Blockchain / FrontEnd / BackEnd, Server</h4>
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=black"/>
 <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat&logo=PyTorch&logoColor=black"/>
@@ -34,16 +34,12 @@ Thank you for visiting. Hope you enjoy my contents and have a nice day.
 <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=OpenAI&logoColor=black"/>
 <img src="https://img.shields.io/badge/OpenAI%20Gym-0081A5?style=flat&logo=OpenAI%20Gym&logoColor=black"/>
 </p>
-
-<h4>Blockchain</h4>
 <p>
 <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=Ethereum&logoColor=black"/>
 <img src="https://img.shields.io/badge/Solidity-363636?style=flat&logo=Solidity&logoColor=black"/>
 <img src="https://img.shields.io/badge/Web3.js-F16822?style=flat&logo=Web3.js&logoColor=black"/>
 <img src="https://img.shields.io/badge/bitcoin-F7931A?style=flat&logo=bitcoin&logoColor=black"/>
 </p>
-
-<h4>FrontEnd</h4>
 <p>
 <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat&logo=React&logoColor=black"/>
 <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=typescript&logoColor=black"/>
@@ -54,8 +50,6 @@ Thank you for visiting. Hope you enjoy my contents and have a nice day.
 <img src="https://img.shields.io/badge/Mapbox-000000?style=flat&logo=Mapbox&logoColor=black"/>
 <img src="https://img.shields.io/badge/Webgl-990000?style=flat&logo=Webgl&logoColor=black"/>
 </p>
-
-<h4>BackEnd / Server</h4>
 <p>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=black"/>
 <img src="https://img.shields.io/badge/ts%20node-3178C6?style=flat&logo=ts-node&logoColor=black"/>
