@@ -23,7 +23,7 @@ Thank you for visiting. Hope you enjoy my contents and have a nice day.
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonychoi&layout=compact&langs_count=8&theme=algolia" height="140px" />
 
 <p align="center">
-<h4>AI, DL, ML, Computer Vision / Blockchain / FrontEnd / BackEnd, Server</h4>
+<h4>Tech Stacks: DL, ML, Computer Vision / Blockchain / FrontEnd / BackEnd, Server</h4>
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=black"/>
 <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat&logo=PyTorch&logoColor=black"/>
