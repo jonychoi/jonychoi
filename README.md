@@ -33,7 +33,7 @@ Thank you for visiting. Hope you enjoy my contents and have a nice day.
 <h5>BackEnd / Server Stacks</h5>
 <p>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/ts-node-3178C6?style=flat&logo=ts-node&logoColor=white"/>
+<img src="https://img.shields.io/badge/ts%20node-3178C6?style=flat&logo=ts-node&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon%20aws&logoColor=white"/>
 <img src="https://img.shields.io/badge/Apollo%20GraphQL-311C87?style=flat&logo=apollo%20graphql&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgreSQL&logoColor=white"/>
