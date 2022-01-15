@@ -23,8 +23,8 @@ Thank you for visiting. Hope you enjoy my contents and have a nice day.
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonychoi&layout=compact&langs_count=8&theme=algolia" height="140px" />
 
 
-<h4>DL / ML / Computer Vision</h4>
 <p>
+<p>DL / ML / Computer Vision: </p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=black"/>
 <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat&logo=PyTorch&logoColor=black"/>
 <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=Numpy&logoColor=black"/>
@@ -35,22 +35,22 @@ Thank you for visiting. Hope you enjoy my contents and have a nice day.
 <img src="https://img.shields.io/badge/OpenAI%20Gym-0081A5?style=flat&logo=OpenAI%20Gym&logoColor=black"/>
 </p>
 
-<h4>Apps</h4>
 <p>
+<p>Apps: </p>
 <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat&logo=React&logoColor=black"/>
 <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=typescript&logoColor=black"/>
 </p>
 
-<h4>Blockchain</h4>
 <p>
+<p>Blockchain: </p>
 <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=Ethereum&logoColor=black"/>
 <img src="https://img.shields.io/badge/Solidity-363636?style=flat&logo=Solidity&logoColor=black"/>
 <img src="https://img.shields.io/badge/Web3.js-F16822?style=flat&logo=Web3.js&logoColor=black"/>
 <img src="https://img.shields.io/badge/bitcoin-F7931A?style=flat&logo=bitcoin&logoColor=black"/>
 </p>
 
-<h4>FrontEnd</h4>
 <p>
+<p>FrontEnd: </p>
 <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=typescript&logoColor=black"/>
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=black"/>
@@ -60,8 +60,8 @@ Thank you for visiting. Hope you enjoy my contents and have a nice day.
 <img src="https://img.shields.io/badge/Webgl-990000?style=flat&logo=Webgl&logoColor=black"/>
 </p>
 
-<h4>BackEnd / Server</h4>
 <p>
+<p>BackEnd / Server: </p>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=black"/>
 <img src="https://img.shields.io/badge/ts%20node-3178C6?style=flat&logo=ts-node&logoColor=black"/>
 <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat&logo=amazon%20aws&logoColor=black"/>
