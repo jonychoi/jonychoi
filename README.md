@@ -24,19 +24,19 @@ Thank you for visiting. Hope you enjoy my contents and have a nice day.
 
 <h4>Web / FrontEnd</h4>
 <p>
-<img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=Tailwind%20CSS&logoColor=white"/>
-<img src="https://img.shields.io/badge/Styled%20Components-DB7093?style=flat&logo=styled%20components&logoColor=white"/>
+<img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=typescript&logoColor=white&font=black"/>
+<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoColor=white&font=black"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white&font=black"/>
+<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=Tailwind%20CSS&logoColor=white&font=black"/>
+<img src="https://img.shields.io/badge/Styled%20Components-DB7093?style=flat&logo=styled%20components&logoColor=white&font=black"/>
 </p>
 <h4>BackEnd / Server</h4>
 <p>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/ts%20node-3178C6?style=flat&logo=ts-node&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon%20aws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Apollo%20GraphQL-311C87?style=flat&logo=apollo%20graphql&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgreSQL&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=SQLite&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white&font=black"/>
+<img src="https://img.shields.io/badge/ts%20node-3178C6?style=flat&logo=ts-node&logoColor=white&font=black"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon%20aws&logoColor=white&font=black"/>
+<img src="https://img.shields.io/badge/Apollo%20GraphQL-311C87?style=flat&logo=apollo%20graphql&logoColor=white&font=black"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgreSQL&logoColor=white&font=black"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=SQLite&logoColor=white&font=black"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white&font=black"/>
 </p>
