@@ -23,6 +23,6 @@ Thank you for visiting. Hope you enjoy my contents and have a nice day.
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonychoi&layout=compact&langs_count=8&theme=algolia" height="140px" />
 
 <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Javascript-232F3E?style=flat&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Javascript-232F3E?style=flat&logo=amazon%20aws&logoColor=black"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon%20aws&logoColor=black"/>
+<img src="https://img.shields.io/badge/Javascript-232F3E?style=flat&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Javascript-232F3E?style=flat&logo=amazon%20aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon%20aws&logoColor=white"/>
