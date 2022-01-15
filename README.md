@@ -36,7 +36,7 @@ Thank you for visiting. Hope you enjoy my contents and have a nice day.
 </p>
 
 <p>
-<p>Apps</p>
+Apps
 <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat&logo=React&logoColor=black"/>
 <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=typescript&logoColor=black"/>
 </p>
