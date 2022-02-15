@@ -21,7 +21,7 @@ Thank you for visiting. Hope you enjoy my contents and have a nice day.
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=jonychoi&show_icons=true&theme=algolia" height="140px" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonychoi&layout=compact&langs_count=8&theme=algolia" height="140px" />
-
+<!-- 
 <p align="center">
 <h3>Tech Stacks</h3>
 <h4>Deep Learning, Machine Learning, Computer Vision / Blockchain / FrontEnd / BackEnd, Server</h4>
@@ -63,4 +63,4 @@ Thank you for visiting. Hope you enjoy my contents and have a nice day.
 <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=SQLite&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
 </p>
-</p>
+</p> -->
