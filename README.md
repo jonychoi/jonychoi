@@ -8,6 +8,7 @@ My insight is taking a long term to take a glimpse of the Universal Law, the Tru
 
 - Deep Learning, Computer Vision
 - Developing the State of the Arts for Universal Deep Learning Task
+- Object Detection and Semantic Correspondence
 - Style Transfer with Implicit Neural Representation
 - Developing an End to End DLOPS Architecture
 - Revolutionary Interface of Human Computer Interface
