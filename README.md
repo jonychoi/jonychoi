@@ -20,7 +20,7 @@ My insight is taking a long term to take a glimpse of the Universal Law, the Tru
 Thank you for visiting. Hope you enjoy my contents and have a nice day. 
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=jonychoi&show_icons=true&include_all_commits=true&theme=algolia" height="140px" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=jonychoi&show_icons=true&include_all_commits=true&theme=algolia&count_private=true" height="140px" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonychoi&layout=compact&langs_count=8&theme=algolia" height="140px" />
 <!-- 
 <p align="center">
