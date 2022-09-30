@@ -22,7 +22,9 @@ Thank you for visiting. Hope you enjoy my contents and have a nice day.
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=jonychoi&show_icons=true&include_all_commits=true&theme=algolia&count_private=true" height="140px" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonychoi&layout=compact&langs_count=8&theme=algolia" height="140px" />
 
+<!--
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjonychoi&count_bg=%2300D3FF&title_bg=%23000000&icon=&icon_color=%23000000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+-->
 
 <!-- 
 <p align="center">
