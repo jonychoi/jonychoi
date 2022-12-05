@@ -2,7 +2,8 @@
 
 👋 Hi, I am @JonyChoi.
 
-My insight is taking a long term to take a glimpse of the Universal Law, the Truth, and I believe that will be realized by technology and literature. I hope to find that and tell to people someday, for the humanity.
+My insight is taking a long term to take a glimpse of the universal truth.
+Hope you find it either.
 
 **I'm Interested and Researching in**
 
